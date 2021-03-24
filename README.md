@@ -1,6 +1,6 @@
-# \REST PULL AP TASK\
+# RESTFUL API TASK
 
-This contains the application code for the \REST PULL AP TASK\. The app is build on top of [Laravel framework](http://laravel.com/docs) which runs on the XAMP OR LAMP stack.
+This contains the application code for the RESTFUL API TASK. The app is build on top of [Laravel framework](http://laravel.com/docs) which runs on the XAMP OR LAMP stack.
 
 
 ## Requirements
