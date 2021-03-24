@@ -26,7 +26,7 @@ Change the values of the `.env` file as necessary.
 
 * php artisan migrate
 * php artisan passport:install
-* php aritsan key:generate
+* php artisan key:generate
 
 
 
