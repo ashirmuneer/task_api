@@ -24,7 +24,7 @@ Change the values of the `.env` file as necessary.
 
 ## Run the following Command
 
-* php artisan migrate.
+* php artisan migrate
 * php artisan passport:install
 
 
